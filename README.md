@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouad Essalim</h1>
 <h3 align="center">A passionate backend and frontend developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <a href="https://twitter.com/essalim_mouad" target="blank"><img src="https://img.shields.io/twitter/follow/essalim_mouad?logo=twitter&style=for-the-badge" alt="essalim_mouad" /></a> </p>
 
@@ -28,8 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mouadessalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mouadessalim" /></a><a href="https://ko-fi.com/mouadessalim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mouadessalim" /></a></p><br><br>
 
+<p><br></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadessalim&show_icons=true&locale=en&layout=compact" alt="mouadessalim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouadessalim&show_icons=true&locale=en" alt="mouadessalim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadessalim&theme=default" alt="mouadessalim" /></p>
