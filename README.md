@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **More and more Python.**
 
-- 👨‍💻 All of my projects are available at [mouadessalim.xyz](mouadessalim.xyz)
+- 👨‍💻 All of my projects are available at [mouadessalim.xyz](https://mouadessalim.xyz)
 
 - 💬 Ask me about **Python, Twitch, Steam**
 
