@@ -2,17 +2,17 @@
 <h3 align="center">A passionate backend and frontend developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🔭 I’m currently working on [CookedGrabber](https://github.com/h4x0r-project/CookedGrabber)
+- 🔭 I’m currently working on **[CookedGrabber](https://github.com/h4x0r-project/CookedGrabber)**.
 
 - 🌱 I’m currently learning **More and more Python.**
 
-- 👨‍💻 All of my projects are available at [mouadessalim.xyz](https://mouadessalim.xyz)
+- 👨‍💻 All of my projects are available at **[mouadessalim.xyz](https://mouadessalim.xyz)**.
 
-- 💬 Ask me about **Python, Twitch, Steam**
+- 💬 Ask me about **Python, Twitch, Steam, Discord, Windows 10**.
 
 - 📫 How to reach me: **https://mouadessalim.xyz/#contact**
 
-- ⚡ Fun fact: **Everything I learned about programming came from research and experiments on the Internet.**
+- ⚡ Fun fact: **Everything I learned about programming came from research and experiments from the web.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
