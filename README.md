@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at **[mouadessalim.xyz](https://mouadessalim.xyz)**.
 
-- 💬 Ask me about **Python, Twitch, Steam, Discord, Windows 10**.
+- 💬 Ask me about **Python, Twitch, Steam, Discord**.
 
 - 📫 How to reach me: **https://mouadessalim.xyz/#contact**
 
