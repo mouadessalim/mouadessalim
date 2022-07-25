@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Python, Twitch, Steam**
 
-- 📫 How to reach me **https://mouadessalim.xyz/#contact**
+- 📫 How to reach me: **https://mouadessalim.xyz/#contact**
 
-- ⚡ Fun fact **Everything I learned about programming came from research and experiments on the Internet.**
+- ⚡ Fun fact: **Everything I learned about programming came from research and experiments on the Internet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
