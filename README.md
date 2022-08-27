@@ -26,7 +26,8 @@
 
 <p><br></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadessalim&show_icons=true&locale=en&layout=compact" alt="mouadessalim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadessalim&show_icons=true&locale=en&layout=compact" alt="mouadessalim" /</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mouadessalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mouadessalim" /></a><a href="https://ko-fi.com/mouadessalim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mouadessalim" /></a></p><br><br>
+### Support:
+<p><a href="https://www.buymeacoffee.com/mouadessalim"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mouadessalim" /></a><a href="https://ko-fi.com/mouadessalim"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mouadessalim" /></a></p><br><br>
+<img align="center" src="https://github.com/mouadessalim/mouadessalim/blob/main/SociableCleanErmine-max-1mb.gif?raw=true">
