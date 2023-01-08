@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on nothing.
 
-- 🌱 I’m currently learning **c++** and i am loving it ! it's Python but 1000x faster.
+- 🌱 I’m currently discovering all the roads that **Python** offer and i am loving it !
 
 - 👨‍💻 All of my projects are available at **[mouadessalim.xyz](https://mouadessalim.xyz)**.
 
