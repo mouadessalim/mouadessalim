@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently discovering all the roads that **Python** offer and i am loving it !
 
-- 👨‍💻 All of my projects are available at **[mouadessalim.xyz](https://mouadessalim.xyz)**.
+- 👨‍💻 All of my projects are available are listed below.
 
 - 💬 Ask me about **Python, Twitch, Steam, Discord**.
 
-- 📫 How to reach me: **https://mouadessalim.xyz/#contact**
+- 📫 How to reach me: **On discord : Lemon.-_-.#3714**
 
 - ⚡ Fun fact: **Everything I learned about programming came from research and experiments from the web.**
 
