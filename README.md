@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Twitch, Steam, Discord**.
 
-- 📫 How to reach me: **On discord : Lemon.-_-.#3714**
+- 📫 How to reach me: **On discord -> Lemon.-_-.#3714**
 
 - ⚡ Fun fact: **Everything I learned about programming came from research and experiments from the web.**
 
