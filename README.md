@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouad Essalim</h1>
 <h3 align="center">A passionate backend and frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on SimpleCoinMarket.
 
 - 🌱 I’m currently discovering all the roads that **Python** offer and i am loving it !
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Twitch, Steam, Discord**.
 
-- 📫 How to reach me: **On discord -> Lemon.-_-.#3714**
+- 📫 How to reach me: **On discord -> lemon.___**
 
 - ⚡ Fun fact: **Everything I learned about programming came from research and experiments from the web.**
 
