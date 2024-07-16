@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouad Essalim</h1>
 <h3 align="center">A passionate backend and frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on **SimpleCoinMarket**.
+- 🔭 I’m currently working on **SimpleCoinMarket (PRIVATE)**.
 
 - 🌱 I’m currently discovering all the roads that **Flutter** offer and i am loving it !
 
